@@ -1,1 +1,1 @@
-Haskell practice
+# Personal repo to practice Haskell
